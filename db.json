@@ -1,4 +1,5 @@
-[
+{
+  "apiversion": [
   {
     "operationId": "00004-GetPlanDetail",
     "version": 1,
@@ -44,4 +45,7 @@
       }
     ]
   }
-]
+
+  ]
+}
+
